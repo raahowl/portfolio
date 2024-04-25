@@ -1,0 +1,274 @@
+{
+	"data": [
+		{
+			"title": "Projects",
+			"value": [
+				{
+					"id": 1,
+					"title": "Go Wagon Driver",
+					"description": "I spearheaded the development of a cutting-edge mobile application designed to revolutionize order tracking and delivery processes for our client. Leveraging the versatile Flutter framework, I crafted an intuitive and dynamic front end for seamless user interaction. This mobile application empowers users to track live locations and efficiently manage order statuses, significantly enhancing operational efficiency and customer satisfaction.",
+					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",					
+					"badgeTitle": [
+						"Flutter",
+						"Dart",
+						"Kotlin",
+						"Android",
+						"Mobile App",
+						"Firebase"						
+					],
+					"githubUrl": "https://github.com/raahowl/",
+					"initialColor": "#56CCF2",
+					"finalColor": "#2F80ED",
+					"language": "Dart"
+				},
+				{
+					"id": 2,
+					"title": "Cred Pokket App",
+					"description": "As the lead developer, I conceptualized and implemented a robust money lender application that revolutionizes the borrowing and repayment experience for users. Developed using the versatile Flutter framework, I crafted an intuitive front end interface for mobile devices, complemented by a sophisticated microservices architecture on the backend. This comprehensive solution empowers users to request loan amounts, manage repayments in convenient installments, and ensures a seamless financial experience.",
+					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",
+					"badgeTitle": [
+						"Flutter",
+						"Laravel",
+						"Dart",
+						"PHP",
+						"Firebase"
+					],
+					"githubUrl": "https://github.com/raahul976/credPocket",
+					"initialColor": "#373B44",
+					"finalColor": "#4286f4",
+					"language": "PHP + Dart"
+				},				
+				{
+					"id": 3,
+					"title": "Portfolio Website",
+					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",
+					"description": "My personal portfolio website is a reflection of my professional journey and expertise, built with a blend of HTML, CSS, and ReactJS. This platform serves as a digital showcase of my career accomplishments, projects, and the technologies I specialize in. From showcasing past projects to highlighting my skills and technology stack, this website offers visitors a comprehensive view of my capabilities and experiences.",
+					"badgeTitle": [
+						"ReactJS",
+						"ExpressJS",
+						"HTML",
+						"CSS"
+						
+					],
+					"githubUrl": "https://github.com/raahowl/portfolio-react",
+					"initialColor": "#11998e",
+					"finalColor": "#38ef7d",
+					"language": "ReactJS"
+				},
+				{
+					"id": 4,
+					"title": "Speed Vehicle Trade",
+					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",
+					"description": "I led the development of an innovative online car trading platform aimed at redefining the automotive marketplace experience. Built with Java Spring Boot for its powerful backend microservices and ReactJS for the frontend, this platform offers a seamless, secure, and user-centric approach to buying and selling vehicles. From comprehensive listings to secure transactions, it empowers users with a modern solution for their automotive needs.",
+					"badgeTitle": [
+						"ReactJS",
+						"ExpressJS",
+						"HTML",
+						"CSS",
+						"Java",
+						"Springboot",
+						"MySQL"
+						
+					],
+					"githubUrl": "https://github.com/raahowl/",
+					"initialColor": "#f12711",
+					"finalColor": "#f5af19",
+					"language": "Java Spring"
+				}
+			],
+			"route": "/projects",
+			"initialColor": "#56CCF2",
+			"finalColor": "#2F80ED",
+			"icon": "GiThorHammer"
+		},
+		{
+			"title": "Coding",
+			"value": [
+				{
+					"title": "PHP",
+					"level": "Advance"
+				},
+				{
+					"title": "HTML",
+					"level": "Advance"
+				},
+				{
+					"title": "Flutter",
+					"level": "Advance"
+				},
+				{
+					"title": "JAVA",
+					"level": "Advance"
+				},
+				{
+					"title": "C++",
+					"level": "Advance"
+				},
+				{
+					"title": "C",
+					"level": "Advance"
+				},
+				{
+					"title": "SQL",
+					"level": "Advance"
+				},
+				{
+					"title": "JS",
+					"level": "Intermediate"
+				},
+				{
+					"title": "MongoDB",
+					"level": "Intermediate"
+				},
+				{
+					"title": "ReactJS",
+					"level": "Intermediate"
+				}
+			],
+			"route": "/languages",
+			"initialColor": "#373B44",
+			"finalColor": "#4286f4",
+			"icon": "DiJavascript1"
+		},
+		{
+			"title": "Hobbies & Interest",
+			"value": [
+				{
+					"title": "Solving puzzles",
+					"hobbyIcon": "FaPuzzlePiece"
+				},
+				{
+					"title": "Computing",
+					"hobbyIcon": "MdComputer"
+				},				
+				{
+					"title": "Travelling",
+					"hobbyIcon": "MdCardTravel"
+				},
+				{
+					"title": "Networking",
+					"hobbyIcon": "FaNetworkWired"
+				},
+				{
+					"title": "Mimicry",
+					"hobbyIcon": "FaMicrophone"
+				}
+			],
+			"route": "#",
+			"initialColor": "#f12711",
+			"finalColor": "#f5af19",
+			"icon": "FaMicrophone"
+		},
+		{
+			"title": "Education",
+			"value": [				
+				{
+					"title": "Jaipur Engineering College and Research Centre",
+					"duration": "2016 - 2020",
+					"location_city": "Jaipur",
+					"location_state": "Rajasthan",
+					"location_country": "India",
+					"description": "Bachelor of Technology",
+					"sec_details": "Specialization : Electronics and Communication",
+					"color": "#fef54b",
+					"text": "#1d1d1d"
+				},
+				{
+					"title": "The Aditya Birla Public School",
+					"duration": "2007 - 2016",
+					"location_city": "Neemuch",
+					"location_state": "Madhya Pradesh",
+					"location_country": "India",
+					"description": "High school",
+					"sec_details": "",
+					"color": "#ffe54a",
+					"text": "#1d1d1d"
+				}			
+			],
+			"route": "#",
+			"initialColor": "#007991",
+			"finalColor": "#78ffd6",
+			"icon": "GiBookshelf"
+		},
+		{
+			"title": "Contact",
+			"value": [
+				{
+					"title": "instagram",
+					"link": ""
+				},
+				{
+					"title": "linkedin",
+					"link": ""
+				},
+				{
+					"title": "github",
+					"link": ""
+				},
+				{
+					"title": "instagram",
+					"link": ""
+				}
+			],
+			"route": "#",
+			"initialColor": "#11998e",
+			"finalColor": "#38ef7d",
+			"icon": "TiSocialAtCircular"
+		},
+		{
+			"title": "Work Experience",
+			"value": [
+				{
+					"title": "Infosys",					
+					"duration": "Systems Engineer | July 2022 - Present",
+					"location": "Jaipur, India",
+					"url": "",
+					"description": [
+						"Collaborated with cross-functionalteams, including designers and product managers, to deliver high-quality software solutions.",
+						"Well versed incomplete Project Management LifeCycle involving analysis, design, development, Iteration planning, strategy planning, risk analysis, configuration management, support, documentation and implementation.",
+						"Was responsible for implementing UImock-ups, integrating third-party react libraries and handling creating Redux store data.",
+						"Authored polished, effective, and scalable code to deploy APIs across multiple programming languages and frameworks, including Java and Node.js."
+					]
+				},
+				{
+					"title": "Infosys",
+					"description": [
+						"Learned Theory and hands-on on JavaScript, ReactJS, NodeJS, MongoDB, HTML and CSS.",
+						"Worked on ReactJS Virtual Dom and React Views, rendering using components custom HTML tags.",
+						"Developed server-side applications using Node.js."
+						
+					],
+					"duration": "Systems Engineer Trainee | Apr 2022 - Jun 2022",
+					"location": "Mysore, India",
+					"url": ""
+				},
+				{
+					"title": "Taldar Tech Consultancy",
+					"description": [
+						"Crafted and integrated backend APIs and services into mobile application.",
+						"Documented code, technical processes, and project updates for reference and knowledge sharing.",
+						"Designed and developed a mobile application aimed at monitoring delivery riders, leveraging the Flutter framework, and subsequently launched it on the Google Play Store."
+					],
+					"duration": "Jr. Software Engineer | Jun 21 - Mar 22",
+					"location": "Udaipur, India",
+					"url": ""
+				},
+				{
+					"title": "Taldar Tech Consultancy",
+					"description": [
+						"Learned and applied programming languages and frameworks such as PHP, Laravel, HTML, CSS, JavaScript, and various backend technologies.",
+						"Supported the maintenance and troubleshooting of existing web applications.",
+						"Assisted inquality assurance testing to ensure web application smeet specifications and user requirements using Selenium."
+					],
+					"duration": "IT Intern | Mar 21 - Jun 21",
+					"location": "Udaipur, India",
+					"url": ""
+				}
+			],
+			"route": "#",
+			"initialColor": "#e1eec3",
+			"finalColor": "#f05053",
+			"icon": "GoRepo"
+		}
+	]
+}
