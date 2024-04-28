@@ -15,7 +15,7 @@ function ResumeModal({showResumeModal, closeModal}) {
 			<Modal.Body>
 				<iframe
 					title='Resume'
-					src='https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf#toolbar=0'
+					src='https://raahowl.github.io/RahulSutharResume.pdf#toolbar=0'
 					width='100%'
 					height='700px'
 					frameBorder='0'
