@@ -7,7 +7,7 @@
 					"id": 1,
 					"title": "Go Wagon Driver",
 					"description": "I spearheaded the development of a cutting-edge mobile application designed to revolutionize order tracking and delivery processes for our client. Leveraging the versatile Flutter framework, I crafted an intuitive and dynamic front end for seamless user interaction. This mobile application empowers users to track live locations and efficiently manage order statuses, significantly enhancing operational efficiency and customer satisfaction.",
-					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",					
+					"projectRoute": "",					
 					"badgeTitle": [
 						"Flutter",
 						"Dart",
@@ -16,7 +16,7 @@
 						"Mobile App",
 						"Firebase"						
 					],
-					"githubUrl": "https://github.com/raahowl/",
+					"githubUrl": "https://github.com/raahowl/driver-tracker-app",
 					"initialColor": "#56CCF2",
 					"finalColor": "#2F80ED",
 					"language": "Dart"
@@ -25,7 +25,7 @@
 					"id": 2,
 					"title": "Cred Pokket App",
 					"description": "As the lead developer, I conceptualized and implemented a robust money lender application that revolutionizes the borrowing and repayment experience for users. Developed using the versatile Flutter framework, I crafted an intuitive front end interface for mobile devices, complemented by a sophisticated microservices architecture on the backend. This comprehensive solution empowers users to request loan amounts, manage repayments in convenient installments, and ensures a seamless financial experience.",
-					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",
+					"projectRoute": "",
 					"badgeTitle": [
 						"Flutter",
 						"Laravel",
@@ -41,7 +41,7 @@
 				{
 					"id": 3,
 					"title": "Portfolio Website",
-					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",
+					"projectRoute": "",
 					"description": "My personal portfolio website is a reflection of my professional journey and expertise, built with a blend of HTML, CSS, and ReactJS. This platform serves as a digital showcase of my career accomplishments, projects, and the technologies I specialize in. From showcasing past projects to highlighting my skills and technology stack, this website offers visitors a comprehensive view of my capabilities and experiences.",
 					"badgeTitle": [
 						"ReactJS",
@@ -58,7 +58,7 @@
 				{
 					"id": 4,
 					"title": "Speed Vehicle Trade",
-					"projectRoute": "https://credit-card-landing-page-ui.vercel.app/",
+					"projectRoute": "",
 					"description": "I led the development of an innovative online car trading platform aimed at redefining the automotive marketplace experience. Built with Java Spring Boot for its powerful backend microservices and ReactJS for the frontend, this platform offers a seamless, secure, and user-centric approach to buying and selling vehicles. From comprehensive listings to secure transactions, it empowers users with a modern solution for their automotive needs.",
 					"badgeTitle": [
 						"ReactJS",

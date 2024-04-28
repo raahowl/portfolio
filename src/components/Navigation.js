@@ -42,7 +42,7 @@ function Navigation() {
 							</Button>
 							<Button
 								variant='light'
-								href='https://github.com/pranjaljain0/pranjaljain0/raw/master/Pranjal_Jain_CV.pdf'
+								href='https://github.com/raahowl/resume/raw/main/RahulSutharResume.pdf'
 								style={{
 									borderRadius: '0 4px 4px 0',
 								}}
@@ -53,7 +53,7 @@ function Navigation() {
 									fill='rgba(0,0,0,0.5)'
 									onClick={() =>
 										(window.location =
-											'https://github.com/pranjaljain0/pranjaljain0/raw/master/Pranjal_Jain_CV.pdf')
+											'https://github.com/raahowl/resume/raw/main/RahulSutharResume.pdf')
 									}
 								/>
 							</Button>
