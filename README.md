@@ -1,6 +1,6 @@
 # Portfolio website
 
-A portfolio website created using React.js hosted on Vercel.
+A portfolio website created using React.js.
 
 ## Pages:
 
