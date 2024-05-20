@@ -22,16 +22,16 @@ const ProjectList = loadable(() =>
 
 const routes = [
 	{
-		path: '/',
+		path: '/portfolio-react',
 		element: <Home />,
 		exact: true,
 	},
 	{
-		path: '/projects',
+		path: '/portfolio-react/projects',
 		element: <ProjectList />,
 	},
 	{
-		path: '/projects/:project_id',
+		path: '/portfolio-react/projects/:project_id',
 		element: <Project />,
 	},
 ]
